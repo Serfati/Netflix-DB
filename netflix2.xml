@@ -1,0 +1,682 @@
+<?xml version="1.0"?>
+<Netflix>
+  <movies>
+    <movie>
+      <name>Mister Glass</name>
+      <genre>Drama</genre>
+      <year>2019</year>
+      <actors>
+        <actor>
+          <first-name>James</first-name>
+          <last-name>McAvoy</last-name>
+          <year-of-birth>1979 </year-of-birth>
+          <awards>
+            <award>
+              <category>Alliance of Women Film Journalists</category>
+              <year>2007</year>
+            </award>
+            <award>
+              <category>ALOS Awards</category>
+              <year>2018</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Bruce</first-name>
+          <last-name>Willis</last-name>
+          <year-of-birth>1955 </year-of-birth>
+          <awards>
+            <award>
+              <category>American gun rights advocates</category>
+              <year>2007</year>
+            </award>
+            <award>
+              <category>American film producers</category>
+              <year>2013</year>
+            </award>
+            <award>
+              <category>American male video game actors</category>
+              <year>2012</year>
+            </award>
+            <award>
+              <category>American male television actors</category>
+              <year>2013</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </movie>
+    <movie>
+      <name>Aquaman</name>
+      <genre>Action</genre>
+      <year>2018</year>
+      <actors>
+        <actor>
+          <first-name>Jason</first-name>
+          <last-name>Momoa</last-name>
+          <year-of-birth>1979</year-of-birth>
+          <awards>
+            <award>
+              <category>Rising Star</category>
+              <year>2011</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Amber</first-name>
+          <last-name>Heard</last-name>
+          <year-of-birth>1986</year-of-birth>
+          <awards>
+            <award>
+              <category>Dallas Star Award</category>
+              <year>2010</year>
+            </award>
+            <award>
+              <category>Spotlight Award</category>
+              <year>2011</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </movie>
+    <movie>
+      <name>Split</name>
+      <genre>Horror</genre>
+      <year>2016</year>
+      <actors>
+        <actor>
+          <first-name>James</first-name>
+          <last-name>McAvoy</last-name>
+          <year-of-birth>1979 </year-of-birth>
+          <awards>
+            <award>
+              <category>Best Actor - Audience Award</category>
+              <year>2017</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </movie>
+    <movie>
+      <name>harry potter</name>
+      <genere>fantasy</genere>
+      <year>1997</year>
+      <actors>
+        <actor>
+          <first-name>Daniel</first-name>
+          <last-name>Radcliffe</last-name>
+          <year-of-birth>1989</year-of-birth>
+          <awards>
+            <award>
+              <category>Male Youth Discovery of the Year</category>
+              <year>2001</year>
+            </award>
+            <award>
+              <category>Choice Movie: Male Breakout Star</category>
+              <year>2001</year>
+            </award>
+            <award>
+              <category>Best Actor</category>
+              <year>2008</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>emma</first-name>
+          <last-name>watson</last-name>
+          <year-of-birth>1990</year-of-birth>
+        </actor>
+        <actor>
+          <first-name>Alba</first-name>
+          <last-name>Florez</last-name>
+          <year-of-birth>1986</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Female Performer in Fiction</category>
+              <year>2000</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </movie>
+    <movie>
+      <name>Miss Bala </name>
+      <genre>Action</genre>
+      <year>2019</year>
+      <actors>
+        <actor>
+          <first-name>Gina</first-name>
+          <last-name>Rodriguez</last-name>
+          <year-of-birth>1984</year-of-birth>
+        </actor>
+        <actor>
+          <first-name>Thomas</first-name>
+          <last-name>Dekker</last-name>
+          <year-of-birth>1987</year-of-birth>
+        </actor>
+      </actors>
+    </movie>
+    <movie>
+      <name>The Dark Knight</name>
+      <genre>Action</genre>
+      <year>2008</year>
+      <actors>
+        <actor>
+          <first-name>Christian</first-name>
+          <last-name>Bale</last-name>
+          <year-of-birth>1974</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Actor</category>
+              <year>2013</year>
+            </award>
+            <award>
+              <category>Best Cast Ensemble</category>
+              <year>2008</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </movie>
+    <movie>
+      <name>Forrest Gump</name>
+      <genre>Drama</genre>
+      <year>1994</year>
+      <actors>
+        <actor>
+          <first-name>Tom</first-name>
+          <last-name>Hanks</last-name>
+          <year-of-birth>1956</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Actor in a Leading Role</category>
+              <year>1994</year>
+            </award>
+            <award>
+              <category>Best Performance by an Actor in a Motion Picture - Drama</category>
+              <year>1995</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Robin</first-name>
+          <last-name>Wright</last-name>
+          <year-of-birth>1966</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Performance by an Actress in a Supporting Role in a Motion Picture</category>
+              <year>1994</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </movie>
+    <movie>
+      <name>Star Wars</name>
+      <genre>Action</genre>
+      <year>1977</year>
+      <actors>
+        <actor>
+          <first-name>Harrison</first-name>
+          <last-name>Ford</last-name>
+          <year-of-birth>1942</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Actor</category>
+              <year>1997</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Mark</first-name>
+          <last-name>Hamill</last-name>
+          <year-of-birth>1951</year-of-birth>
+        </actor>
+      </actors>
+    </movie>
+    <movie>
+      <name>Gladiator</name>
+      <genre>Action</genre>
+      <year>2000</year>
+      <actors>
+        <actor>
+          <first-name>Russell</first-name>
+          <last-name>Crowe</last-name>
+          <year-of-birth>1964</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Actor in a Leading Role</category>
+              <year>2000</year>
+            </award>
+            <award>
+              <category>Best Performance by an Actor in a Motion Picture - Drama</category>
+              <year>2000</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Joaquin</first-name>
+          <last-name>Phoenix</last-name>
+          <year-of-birth>1974</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Actor in a Supporting Role</category>
+              <year>2000</year>
+            </award>
+            <award>
+              <category>Best Performance by an Actor in a Supporting Role in a Motion Picture</category>
+              <year>2000</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </movie>
+    <movie>
+      <name>Ted</name>
+      <genre>Comedy</genre>
+      <year>2015</year>
+      <actors>
+        <actor>
+          <first-name>Mila</first-name>
+          <last-name>Kunis</last-name>
+          <year-of-birth>1983</year-of-birth>
+          <awards>
+            <award>
+              <category>Young Artist Awards</category>
+              <year>2001</year>
+            </award>
+            <award>
+              <category>Teen Choice Awards</category>
+              <year>2010</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </movie>
+  </movies>
+  <TV-shows>
+    <TV-show>
+      <name>Narcos</name>
+      <genre>Crime</genre>
+      <year>2015</year>
+      <seasons>
+        <season>
+          <episodes>10</episodes>
+        </season>
+        <season>
+          <episodes>10</episodes>
+        </season>
+        <season>
+          <episodes>10</episodes>
+        </season>
+      </seasons>
+      <actors>
+        <actor>
+          <first-name>Wagner</first-name>
+          <last-name>Maniçoba de Moura</last-name>
+          <year-of-birth>1976</year-of-birth>
+        </actor>
+        <actor>
+          <first-name>Pedro</first-name>
+          <last-name>Pascal</last-name>
+          <year-of-birth>1975</year-of-birth>
+        </actor>
+        <actor>
+          <first-name>Emilia</first-name>
+          <last-name>Clarke</last-name>
+          <year-of-birth>1986</year-of-birth>
+          <awards>
+            <award>
+              <category>Outstanding Female Rising Star in a Drama Series or Special</category>
+              <year>2012</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Daniel</first-name>
+          <last-name>Radcliffe</last-name>
+          <year-of-birth>1989</year-of-birth>
+          <awards>
+            <award>
+              <category>Male Youth Discovery of the Year</category>
+              <year>2001</year>
+            </award>
+            <award>
+              <category>Choice Movie: Male Breakout Star</category>
+              <year>2001</year>
+            </award>
+            <award>
+              <category>Best Actor</category>
+              <year>2008</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </TV-show>
+    <TV-show>
+      <name>Game of Thrones</name>
+      <genre>Action</genre>
+      <year>2011</year>
+      <seasons>
+        <season>
+          <episodes>10</episodes>
+        </season>
+        <season>
+          <episodes>10</episodes>
+        </season>
+        <season>
+          <episodes>10</episodes>
+        </season>
+        <season>
+          <episodes>10</episodes>
+        </season>
+        <season>
+          <episodes>10</episodes>
+        </season>
+        <season>
+          <episodes>10</episodes>
+        </season>
+        <season>
+          <episodes>7</episodes>
+        </season>
+      </seasons>
+      <actors>
+        <actor>
+          <first-name>Emilia</first-name>
+          <last-name>Clarke</last-name>
+          <year-of-birth>1986</year-of-birth>
+          <awards>
+            <award>
+              <category>Outstanding Female Rising Star in a Drama Series or Special</category>
+              <year>2012</year>
+            </award>
+            <award>
+              <category>Best Supporting Actress in a Drama Series</category>
+              <year>2013</year>
+            </award>
+            <award>
+              <category>Breakout Performance - Female</category>
+              <year>2011</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Peter</first-name>
+          <last-name>Dinklage</last-name>
+          <year-of-birth>1969</year-of-birth>
+          <awards>
+            <award>
+              <category>Outstanding Supporting Actor in a Drama Series</category>
+              <year>2018</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </TV-show>
+    <TV-show>
+      <name>The Sopranos</name>
+      <genre>Crime</genre>
+      <year>1999</year>
+      <seasons>
+        <season>
+          <episodes>13</episodes>
+        </season>
+        <season>
+          <episodes>13</episodes>
+        </season>
+        <season>
+          <episodes>13</episodes>
+        </season>
+        <season>
+          <episodes>13</episodes>
+        </season>
+        <season>
+          <episodes>13</episodes>
+        </season>
+        <season>
+          <episodes>21</episodes>
+        </season>
+      </seasons>
+      <actors>
+        <actor>
+          <first-name>James</first-name>
+          <last-name>Gandolfini</last-name>
+          <year-of-birth>1961</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Performance by an Actor in a Television Series - Drama</category>
+              <year>2000</year>
+            </award>
+            <award>
+              <category>Outstanding Lead Actor in a Drama Series</category>
+              <year>2003</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Lorraine</first-name>
+          <last-name>Bracco</last-name>
+          <year-of-birth>1954</year-of-birth>
+          <awards>
+            <award>
+              <category>Outstanding Performance by an Ensemble in a Drama Series</category>
+              <year>2008</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </TV-show>
+    <TV-show>
+      <name>Black Mirror</name>
+      <genre>Drama</genre>
+      <year>2011</year>
+      <seasons>
+        <season>
+          <episodes>3</episodes>
+        </season>
+        <season>
+          <episodes>3</episodes>
+        </season>
+        <season>
+          <episodes>6</episodes>
+        </season>
+        <season>
+          <episodes>6</episodes>
+        </season>
+      </seasons>
+      <actors>
+        <actor>
+          <first-name>Daniel</first-name>
+          <last-name>Lapaine</last-name>
+          <year-of-birth>1971</year-of-birth>
+        </actor>
+      </actors>
+    </TV-show>
+    <TV-show>
+      <name>Westworld</name>
+      <genre>Drama</genre>
+      <year>2016</year>
+      <seasons>
+        <season>
+          <episodes>10</episodes>
+        </season>
+        <season>
+          <episodes>10</episodes>
+        </season>
+      </seasons>
+      <actors>
+        <actor>
+          <first-name>Jeffrey</first-name>
+          <last-name>Wright</last-name>
+          <year-of-birth>1965</year-of-birth>
+          <awards>
+            <award>
+              <category>Best TV Actor</category>
+              <year>2016</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Ed</first-name>
+          <last-name>Harris</last-name>
+          <year-of-birth>1950</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Supporting Actor on Television</category>
+              <year>2017</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </TV-show>
+    <TV-show>
+      <name>Big Little Lies</name>
+      <genre>Crime</genre>
+      <year>2017</year>
+      <seasons>
+        <season>
+          <episodes>7</episodes>
+        </season>
+      </seasons>
+      <actors>
+        <actor>
+          <first-name>Reese</first-name>
+          <last-name>Witherspoon</last-name>
+          <year-of-birth>1976</year-of-birth>
+          <awards>
+            <award>
+              <category>Outstanding Limited Series</category>
+              <year>2017</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Nicole</first-name>
+          <last-name>Kidman</last-name>
+          <year-of-birth>1967</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Performance by an Actress in a Limited Series or a Motion Picture Made for Television</category>
+              <year>2018</year>
+            </award>
+            <award>
+              <category>Outstanding Lead Actress in a Limited Series or Movie</category>
+              <year>2017</year>
+            </award>
+          </awards>
+        </actor>
+      </actors>
+    </TV-show>
+    <TV-show>
+      <name>The Night Of</name>
+      <genre>Crime</genre>
+      <year>2016</year>
+      <seasons>
+        <season>
+          <episodes>8</episodes>
+        </season>
+      </seasons>
+      <actors>
+        <actor>
+          <first-name>Riz</first-name>
+          <last-name>Ahmed</last-name>
+          <year-of-birth>1982</year-of-birth>
+          <awards>
+            <award>
+              <category>Outstanding Lead Actor in a Limited Series or Movie</category>
+              <year>2017</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>John</first-name>
+          <last-name>Turturro</last-name>
+          <year-of-birth>1957</year-of-birth>
+        </actor>
+      </actors>
+    </TV-show>
+    <TV-show>
+      <name>Mr. Bean</name>
+      <genre>Comedy</genre>
+      <year>1990</year>
+      <seasons>
+        <season>
+          <episodes>15</episodes>
+        </season>
+      </seasons>
+      <actors>
+        <actor>
+          <first-name>Rowan</first-name>
+          <last-name>Atkinson</last-name>
+          <year-of-birth>1955</year-of-birth>
+        </actor>
+      </actors>
+    </TV-show>
+    <TV-show>
+      <name>The Handmaid's Tale</name>
+      <genre>Drama</genre>
+      <year>2017</year>
+      <seasons>
+        <season>
+          <episodes>10</episodes>
+        </season>
+        <season>
+          <episodes>13</episodes>
+        </season>
+      </seasons>
+      <actors>
+        <actor>
+          <first-name>Elisabeth</first-name>
+          <last-name>Moss </last-name>
+          <year-of-birth>1982</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Performance by an Actress in a Television Series - Drama</category>
+              <year>2018</year>
+            </award>
+            <award>
+              <category>Outstanding Drama Series</category>
+              <year>2017</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Max</first-name>
+          <last-name>Minghella</last-name>
+          <year-of-birth>1985</year-of-birth>
+        </actor>
+      </actors>
+    </TV-show>
+    <TV-show>
+      <name>Casa De Papel</name>
+      <genre>Drama</genre>
+      <year>2017</year>
+      <seasons>
+        <season>
+          <episodes>13</episodes>
+        </season>
+        <season>
+          <episodes>9</episodes>
+        </season>
+      </seasons>
+      <actors>
+        <actor>
+          <first-name>Alba</first-name>
+          <last-name>Florez</last-name>
+          <year-of-birth>1986</year-of-birth>
+          <awards>
+            <award>
+              <category>Best Supporting Actress in a Television Series </category>
+              <year>2015</year>
+            </award>
+          </awards>
+        </actor>
+        <actor>
+          <first-name>Álvaro</first-name>
+          <last-name>Morte</last-name>
+          <year-of-birth>1975</year-of-birth>
+        </actor>
+      </actors>
+    </TV-show>
+  </TV-shows>
+</Netflix>
